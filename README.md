@@ -1,5 +1,7 @@
 # Discord Optimizer
 
+### [⬇ Download the latest release](https://github.com/RiddleTheWorld/discord-optimizer/releases/latest)
+
 > **A personal project.** I made this for my own PC and put it up in case it's useful to someone else.
 > It's shared as is: it works on my setup, but there's no support or update schedule.
 
@@ -12,7 +14,8 @@ It changes Discord's settings and files from the outside; it never modifies Disc
 
 ## Get started
 
-1. Download or clone this repository and keep the files together in one folder.
+1. Download the zip from the [latest release](https://github.com/RiddleTheWorld/discord-optimizer/releases/latest) and
+   extract it into a folder you'll keep (or clone this repository). Keep the files together.
 2. Double-click **Start Discord Optimizer.cmd**.
    If Windows says "Windows protected your PC", choose **More info → Run anyway** (it says that about any downloaded script).
 3. Tick what you want and press **Run**. Tick **Benchmark before and after** to see what it saved (adds 3 to 5 minutes).
